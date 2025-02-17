@@ -1,0 +1,19 @@
+.section1 {
+	background:#e30913;
+}
+
+.section2 {
+	background:#780909 ;
+}
+
+.section3 {
+	background:#141414;
+}
+
+.section4 {
+	background:#595959;
+}
+
+.card , img {
+	border-radius: 0;
+}
